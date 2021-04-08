@@ -19,3 +19,5 @@ X-Xss-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
 X-Content-Type-Options: nosniff
 ```
+
+THIS REPOSITORY IS NOT MAINTAINED.
